@@ -11,7 +11,7 @@
   goodchatclient   chat client executable
   groups	   example groups file
 
-* How do i compile my programs? 
+* How do I compile my programs? 
 
   The 'makefile' is provided just for that purpose. To compile, run
 
@@ -19,7 +19,7 @@
 
   It will create 'chatserver' and 'chatclient'.
 
-* How do i run these programs? 
+* How do I run these programs? 
 
   The 'chatserver' program takes  a command line argument <groups-file>.
   For example you can run it as follows.
@@ -58,7 +58,7 @@
   If other clients are also run and become members, whatever is typed by
   a client would appear at all clients of that particular group. 
 
-* How do i exit from these programs? 
+* How do I exit from these programs? 
 
   In  case of  client, if  you  type "/end"  or press  'Return' when  it
   prompts you for group name or nickname, it will exit. 
